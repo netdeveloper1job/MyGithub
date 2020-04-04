@@ -1,7 +1,0 @@
-This is first line of the first file under git.
-
-Change line second
-
-Third line
-
-fourth line
